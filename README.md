@@ -5,5 +5,7 @@
 # A Philosophy of Software Design
 > https://www.youtube.com/watch?v=bmSAYlu0NcY
 >> Abstraction
+
 >> Exceptions
->> 
+
+>> Tactical vs Strategic Programming (strive for strategic programming)
